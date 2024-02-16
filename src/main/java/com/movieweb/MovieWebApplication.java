@@ -1,4 +1,4 @@
-package com.example.movieweb;
+package com.movieweb;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

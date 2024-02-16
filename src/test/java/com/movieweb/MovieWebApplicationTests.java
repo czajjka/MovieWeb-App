@@ -1,4 +1,4 @@
-package com.example.movieweb;
+package com.movieweb;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
